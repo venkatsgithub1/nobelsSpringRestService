@@ -1,7 +1,7 @@
 # nobelsSpringRestService
 A starter spring rest interface project
 
-The project is based on Spring Rest.
+The project is based on Spring REST.
 
 Maven is used to add jars required for spring restful service.
 
