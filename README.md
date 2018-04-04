@@ -26,4 +26,4 @@ Nobels data can be downloaded from this link: <a href="https://github.com/venkat
 	public List<Laureates> getWinnersByCategory(String category);
 `
 
-<p>Run service on host:8080/&lt;end-point&gt; in controller java file></p>
+<p>Run service on host:8080/&lt;end-point in controller java file&gt;</p>
